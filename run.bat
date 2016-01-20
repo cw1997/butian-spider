@@ -1,0 +1,1 @@
+%php% -f "D:\www\butian-spider\spider.php"
